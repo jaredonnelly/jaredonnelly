@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning linear regressions.
 
 - 💞️ I’m looking to collaborate on health data projects!
-- Currently I am working on a project applying ML to homelessness data.
+- Currently I am refining my data science skills.
 
 - 📫 How to reach me twitter: @jaredonnelly or email: jdonnel3@stevens.edu
 
